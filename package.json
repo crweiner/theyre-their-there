@@ -28,7 +28,7 @@
     "postcss-comment": "2.0.0",
     "postcss-import": "13.0.0",
     "postcss-mixins": "7.0.3",
-    "postcss-simple-vars": "6.0.1",
+    "postcss-simple-vars": "6.0.3",
     "precss": "4.0.0",
     "uglify-js": "3.12.7",
     "xml2js": "0.4.23"
